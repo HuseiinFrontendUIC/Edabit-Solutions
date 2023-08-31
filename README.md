@@ -1,4 +1,4 @@
-# edabit-solution
+# about edabit solution
 
 Hello, my name is Huseiin
 
